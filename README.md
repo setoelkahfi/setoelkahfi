@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm from Kebumen, Central Java, Indonesia :indonesia:
+
 - Aku seneng ngrampungake masalah.
 - Saya suka meneyelesaikan masalah.
 - I like solving problems.
