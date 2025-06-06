@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a 9-to-5 Apple platforms developer. Trade-of-all-jacks afterward. 
+A T-shaped developer with extensive experience in Apple platform APIs.
 
 [Website](https://github.com/setoelkahfi/personal-website).
 
