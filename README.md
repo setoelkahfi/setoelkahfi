@@ -6,4 +6,4 @@ A T-shaped developer with extensive experience in Apple platform APIs.
 
 ## Current interests
 
-[Crypto](https://github.com/briansmith/ring/issues/2616), [Audio](https://github.com/RustAudio/rodio/pull/743), [Build system](https://bazel.build/basics/build-systems), [Transformer](https://arxiv.org/abs/1706.03762), among other [things](https://5mb.app).
+[Crypto](https://github.com/briansmith/ring/issues/2616), [Audio](https://github.com/RustAudio/rodio/pull/743).
