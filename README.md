@@ -1,6 +1,6 @@
 ### Hello 👋
 
-A T-shaped developer with extensive experience in Apple platform APIs. I published 20+ apps across AppStore and PlayStore, for platforms ranging from iOS, macOS, watchOS, tvOS (TestFlight version), Android mobile, and Android TV.
+A T-shaped developer with extensive experience in Apple platform APIs. I published 20+ apps across AppStore and PlayStore, for platforms ranging from iOS, macOS, watchOS, tvOS, Android mobile, and Android TV.
 
 [Website](https://github.com/setoelkahfi/personal-website).
 
