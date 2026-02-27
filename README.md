@@ -6,6 +6,10 @@ A T-shaped developer with extensive experience in Apple platform APIs. I publish
 
 ## Current interests
 
+Building reliable and efficient software.
+
+[Inference engine](https://github.com/EricLBuehler/mistral.rs/pulls/setoelkahfi)
+
 [Tauri](https://github.com/tauri-apps/tauri-docs/issues/3612)
 
 - [tauri-plugin-android-tv-check](https://github.com/smbcloudxyz/tauri-plugin-android-tv-check).
