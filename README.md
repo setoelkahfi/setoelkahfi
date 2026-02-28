@@ -4,7 +4,7 @@ A T-shaped developer with extensive experience in Apple platform APIs. I publish
 
 [Website](https://github.com/setoelkahfi/personal-website).
 
-## Current interests
+## Current interest
 
 Building reliable and efficient software.
 
