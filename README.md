@@ -4,12 +4,16 @@ A T-shaped developer with extensive experience in Apple platform APIs
 
 ## Current interest
 
-Building reliable and efficient software.
+Building reliable and efficient software, vertically stacked:
+
+[SplitFire AI](https://github.com/SplitFireAI)
+
+[Onde Inference on-device inference engine for Apple silicon devices](https://github.com/ondeinference/onde)
 
 [In our context, smb CLI doesn't stand for anything, think of it like npm, or, if you fancy, Seto's massive bullsh*t.]: #
 [smbCloud cloud platform for SMBs](https://github.com/smbcloudXYZ/smbcloud-cli)
 
-[Onde Inference on-device inference engine for Apple silicon devices](https://github.com/ondeinference/onde)
+## OSS I contribute to
 
 [Tauri](https://github.com/tauri-apps/tauri-docs/issues/3612)
 
