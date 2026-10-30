@@ -4,16 +4,15 @@ A T-shaped developer with extensive experience in Apple platform APIs
 
 ## Current interest
 
-Building reliable and efficient software, vertically stacked:
+Building reliable and efficient software at [SplitFire AI](https://github.com/SplitFireAI)
 
-[SplitFire AI](https://github.com/SplitFireAI)
-
+<!---
+... stack on top of:
 [Onde Inference on-device inference engine for Apple silicon devices](https://github.com/ondeinference/onde)
-
-[In our context, smb CLI doesn't stand for anything, think of it like npm, or, if you fancy, Seto's massive bullsh*t.]: #
 [smbCloud cloud platform for SMBs](https://github.com/smbcloudXYZ/smbcloud-cli)
+-->
 
-## OSS I contribute to
+## These repos have my commits
 
 [Tauri](https://github.com/tauri-apps/tauri-docs/issues/3612)
 
